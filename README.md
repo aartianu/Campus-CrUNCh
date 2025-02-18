@@ -1,5 +1,5 @@
 # Campus-CrUNCh
-# Campus CrUNCh  
+# Design Document  
 
 ## Problem Statement  
 The University of North Carolina at Chapel Hill (UNC) offers a plethora of spaces for residents of Chapel Hill and students of UNC. However, these locations remain unknown, causing students to deviate to locations already swarming with students.  
